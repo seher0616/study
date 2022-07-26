@@ -78,8 +78,8 @@ body{
 .container .main-content .header{
     padding: 20px;
     background-color: white;
-    color:#717171
-
+    color:#717171;
+    font-size: 50px;
 }
 .container .main-content .info{
     margin: 20px;
